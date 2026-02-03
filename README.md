@@ -5,3 +5,6 @@
 
 ## [Оно тебе надо](https://github.com/iannsgirdye/ono-tebe-nado-ad)
 Лендинг, написанный только на **HTML** и **CSS** с использованием подключаемых шрифтов.
+
+## [Посмотри в окно](https://github.com/iannsgirdye/posmotri-v-okno-ad)
+Стилизация лендинга через **CSS** с готовой разметкой и программным кодом.
