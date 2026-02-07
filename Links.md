@@ -17,3 +17,4 @@
 ## Изображения
 - [TinyJPG](https://tinyjpg.com/) — сжатие WemP, PNG и JPEG
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) — оптимизация SVG
+- [URL-encoder для SVG](https://yoksel.github.io/url-encoder/ru/)
