@@ -12,6 +12,7 @@
 
 ## Тексты
 - [Font-size clamp() generator](https://clamp.font-size.app/)
+- [Wakamai Fondue](https://wakamaifondue.com/) — на что способен мой шрифт
 
 
 ## Изображения
