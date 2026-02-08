@@ -13,7 +13,12 @@
 ## Тексты
 - [Font-size clamp() generator](https://clamp.font-size.app/)
 - [Wakamai Fondue](https://wakamaifondue.com/) — на что способен мой шрифт
-
+- [Google Fonts](https://fonts.google.com/) — каталог бесплатных шрифтов с открытым исходным кодом
+- [Variable Fonts](https://v-fonts.com/) — каталог вариативных шрифтов Ника Шермана
+- [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__) — каталог вариативных шрифтов Лоуренса Пенни
+- [Groteskly yours](https://groteskly.xyz/) — милые инди-разработчики шрифтов. Будете подбирать платные шрифты, посматривайте в их сторону
+- [Font Playground](https://play.typedetail.com/) — песочница для вариативных шрифтов
+- [Dinamo Font Gauntlet](https://fontgauntlet.com/) — песочница для вариативных шрифтов
 
 ## Изображения
 - [TinyJPG](https://tinyjpg.com/) — сжатие WemP, PNG и JPEG
