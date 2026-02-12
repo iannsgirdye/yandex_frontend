@@ -39,3 +39,4 @@
 - [cubic-bezier](https://cubic-bezier.com)
 - [Matrix transform generator](https://angrytools.com/css-generator/transform/)
 - [CSS properties by style operation required](https://docs.google.com/spreadsheets/u/0/d/1Hvi0nu2wG3oQ51XRHtMv-A_ZlidnwUYwgQsPQUg1R2s/pub?single=true&gid=0&output=html)
+- [Gradient Animator](https://gradient-tool-lovat.vercel.app/)
