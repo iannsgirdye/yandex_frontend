@@ -16,7 +16,7 @@
 - [Prettier](https://prettier.io/)
 
 
-## <head>
+## \<head>
 - [The Open Graph protocol](https://ogp.me/)
 
 
