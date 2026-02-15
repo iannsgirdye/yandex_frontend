@@ -1,6 +1,16 @@
 # Сервисы и документы
 
 
+## Документация
+- [MDN Web Docs](https://developer.mozilla.org/ru/) — документация по HTML, CSS и JS
+- [Stack overflow](https://ru.stackoverflow.com/) — форум разработчиков
+- [htmlbook.ru](https://htmlbook.ru) — русскоязычная документация по HTML и CSS
+- [БЭМ](https://ru.bem.info/) — официальная документация по БЭМ
+- [React](https://react.dev/) — документация библиотеки React
+- [Dash](https://kapeli.com/dash) — единая библиотека множества официальных документаций (только в формате приложения для macOS)
+- [Как уточнять запросы в Google Поиске](https://support.google.com/websearch/answer/2466433?sjid=16227813920886671308-EU) — получать более точные результаты и находить материалы, связанные с запросом, можно разными способами
+
+
 ## Форматирование
 - [Кодстайл Яндекса](https://code.s3.yandex.net/web-developer/verstka/Кодстайл__общие_принципы.pdf)
 - [Prettier](https://prettier.io/)
