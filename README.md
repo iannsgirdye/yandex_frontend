@@ -14,3 +14,6 @@
 
 ## [Закрывающий тег](https://github.com/iannsgirdye/zakrivayuschiy-teg-ad)
 Вёрстка адаптивного лендинга на **HTML** и **CSS** с готовым программным кодом на **JS** для анимирования элемента.
+
+## [Сервис To-do](https://github.com/iannsgirdye/to-do-pre)
+Написание программного кода на **JS** для лендинга с готовом вёрской на **HTML** и **CSS**.
