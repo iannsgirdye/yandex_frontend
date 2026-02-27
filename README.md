@@ -8,3 +8,6 @@
 
 ## [Посмотри в окно](https://github.com/iannsgirdye/posmotri-v-okno-ad)
 Стилизация лендинга через **CSS** с готовой разметкой и программным кодом.
+
+## [Сложно сосредоточиться](https://github.com/iannsgirdye/slozhno-sosredotochitsya-ad)
+Вёрстка адаптивного лендинга в светлой и тёмной темах на **HTML** и **CSS** с готовым **JS** для переключения темы.
