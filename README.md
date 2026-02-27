@@ -11,3 +11,6 @@
 
 ## [Сложно сосредоточиться](https://github.com/iannsgirdye/slozhno-sosredotochitsya-ad)
 Вёрстка адаптивного лендинга в светлой и тёмной темах на **HTML** и **CSS** с готовым **JS** для переключения темы.
+
+## [Закрывающий тег](https://github.com/iannsgirdye/zakrivayuschiy-teg-ad)
+Вёрстка адаптивного лендинга на **HTML** и **CSS** с готовым программным кодом на **JS** для анимирования элемента.
