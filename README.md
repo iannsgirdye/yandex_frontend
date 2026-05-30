@@ -18,5 +18,5 @@
 ## [Сервис To-do](https://github.com/iannsgirdye/to-do-pre)
 Написание программного кода на **JS** для лендинга с готовом вёрской на **HTML** и **CSS**.
 
-## [Сервис To-do](https://github.com/iannsgirdye/mesto-production)
+## [Mesto](https://github.com/iannsgirdye/mesto-production)
 *(описание будет позже)*
